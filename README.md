@@ -1,4 +1,4 @@
-https://www.sonu.live/trivia/chrome.html
+https://flyingsonu122.github.io/trivia/chrome.html
 
 <br><br><br><br>
 
